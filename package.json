@@ -1,0 +1,18 @@
+{
+  "name": "snake",
+  "version": "0.1.0",
+  "main": "game.js",
+  "repository": "https://github.com/rkulik/snake.git",
+  "author": "Yves Schleich <yves.schleich@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "webpack": "webpack"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^3.5.4",
+    "webpack-dev-server": "^2.7.1"
+  }
+}
